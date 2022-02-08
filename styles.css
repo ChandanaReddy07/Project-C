@@ -66,7 +66,7 @@
 
   li a {
     /* display: block; */
-    
+    color: white;
     /* text-align: center; */
     padding: 14px 16px;
     text-decoration: none;
@@ -115,7 +115,6 @@
     border: 1;
     background-color: rgb(205, 219, 200);
   }
-  .list li{
+  .list{
     list-style: disc;
-    color: black;
   }
