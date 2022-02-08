@@ -66,7 +66,7 @@
 
   li a {
     /* display: block; */
-    color: white;
+    
     /* text-align: center; */
     padding: 14px 16px;
     text-decoration: none;
@@ -92,7 +92,7 @@
     top: 0;
   }
 .navi{
-  list-style-type: none;
+  /* list-style-type: none; */
 }
 .navi li{
   display: block; 
@@ -114,4 +114,8 @@
   table {
     border: 1;
     background-color: rgb(205, 219, 200);
+  }
+  .list li{
+    list-style: disc;
+    color: black;
   }
